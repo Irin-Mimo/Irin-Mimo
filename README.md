@@ -23,6 +23,7 @@ I'm a trained Full Stack Developer with 788hours of hands-on learning across 14 
 | M_14 | 📱 **MAUI**                              | Cross Platform Mobile App Development using MAUI          |
 
 🧰 **Tech Stack**
+
 Frontend
 
 - ✅ HTML, CSS, Bootstrap5
