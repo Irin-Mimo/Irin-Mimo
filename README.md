@@ -25,21 +25,21 @@ I'm a trained Full Stack Developer with 788hours of hands-on learning across 14 
 🧰 **Tech Stack**
 Frontend
 
-✅ HTML, CSS, Bootstrap5
-✅ JavaScript, jQuery
-✅ Angular, React
+- ✅ HTML, CSS, Bootstrap5
+- ✅ JavaScript, jQuery
+- ✅ Angular, React
 
 Backend
 
-🧑‍💻 C#, .NET Framework, .NET Core
-🚀 ASP.NET MVC 5, ASP.NET Core MVC, Web API
+- 🧑‍💻 C#, .NET Framework, .NET Core
+- 🚀 ASP.NET MVC 5, ASP.NET Core MVC, Web API
 
 📫 Connect With Me
 
 - 🔗 LinkedIn: www.linkedin.com/in/irin-sarker-mim-374b54335
 - ✉️ Email: irinmim073@gmail.com
 
-🔗✨Thank you for stopping by! I’m building real-world web & mobile apps—let’s stay connected.
+- 🔗✨Thank you for stopping by! I’m building real-world web & mobile apps—let’s stay connected.
 
 
 
