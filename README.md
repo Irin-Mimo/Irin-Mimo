@@ -35,12 +35,13 @@ Backend
 🚀 ASP.NET MVC 5, ASP.NET Core MVC, Web API
 
 📫 Connect With Me
-🔗 LinkedIn: www.linkedin.com/in/irin-sarker-mim-374b54335
-✉️ Email: irinmim073@gmail.com
+
+- 🔗 LinkedIn: www.linkedin.com/in/irin-sarker-mim-374b54335
+- ✉️ Email: irinmim073@gmail.com
 
 🔗✨Thank you for stopping by! I’m building real-world web & mobile apps—let’s stay connected.
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
