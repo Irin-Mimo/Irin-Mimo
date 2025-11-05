@@ -44,15 +44,3 @@ Backend
  🔗✨Thank you for stopping by! I’m building real-world web & mobile apps—let’s stay connected.
 
 
-
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irin-Mimo)](https://github.com/anuraghazra/github-readme-stats)
-
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=Irin-Mimo&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Irin-Mimo)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Irin-Mimo)  
-
-
-
