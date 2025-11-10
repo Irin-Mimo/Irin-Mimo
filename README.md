@@ -37,7 +37,7 @@ Backend
 
 📫 Connect With Me
 
-- 🔗 LinkedIn: www.linkedin.com/in/irin-sarker-mim-374b54335
+- 🔗 LinkedIn: www.linkedin.com/in/irin-sarker-mim
 - ✉️ Email: irinmim073@gmail.com
 
 
